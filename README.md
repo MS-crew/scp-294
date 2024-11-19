@@ -1,4 +1,4 @@
-# SCP-294 The Vending Machine ![GitHub all releases](https://img.shields.io/github/downloads/batatas-fritas/scp-294/total)
+# SCP-294 The Vending Machine ![GitHub all releases](https://img.shields.io/github/downloads/Ms-crew/scp-294/total)
 ### SCP: Secret Laboratory plugin made with [EXILED](https://github.com/Exiled-Team/EXILED) and [MER](https://github.com/Michal78900/MapEditorReborn) (latest releases)
 
 This plugin adds SCP-294 to the game. SCP-294 is a vending machine that will give you a drink based on the prompt you give it. This plugin allows you to add your own drinks in the config and provides you with a few default examples that you can use to create your own. **Keep in mind that these examples are also customizable**. You can also use this [template](#template).
